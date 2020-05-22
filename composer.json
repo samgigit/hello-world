@@ -62,8 +62,7 @@
         "drupal/simplenews": "^2.0@beta",
         "drupal/video_embed_field": "^2.4",
         "drupal/votingapi_widgets": "^1.0@alpha",
-        "drupal/webform": "^5.10",
-        "drush/drush": "^10.2"
+        "drupal/webform": "^5.10"
     },
     "conflict": {
         "drupal/drupal": "*"
@@ -94,9 +93,6 @@
             ],
             "web/themes/contrib/{$name}": [
                 "type:drupal-theme"
-            ],
-            "drush/Commands/contrib/{$name}": [
-                "type:drupal-drush"
             ],
             "web/modules/custom/{$name}": [
                 "type:drupal-custom-module"
