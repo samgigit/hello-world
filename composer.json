@@ -62,8 +62,7 @@
         "drupal/simplenews": "^2.0@beta",
         "drupal/video_embed_field": "^2.4",
         "drupal/votingapi_widgets": "^1.0@alpha",
-        "drupal/webform": "^5.10",
-        "drush/drush": "^10.2"
+        "drupal/webform": "^5.10"
     },
     "conflict": {
         "drupal/drupal": "*"
